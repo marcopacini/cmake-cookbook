@@ -6,5 +6,5 @@ An _Hello World_ example.
 mkdir -p build
 cd build
 cmake ..
-make
+cmake --build .
 ```
