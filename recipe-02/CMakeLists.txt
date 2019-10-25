@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
+project(recipe-02 LANGUAGES CXX)
+add_library(foo STATIC foo.hpp foo.cpp)
+add_executable(recipe-02 main.cpp)
+target_link_libraries(recipe-02 foo)
