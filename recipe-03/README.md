@@ -1,6 +1,6 @@
-# recipe-02
+# recipe-03
 
-An example of conditional build:
+An example of conditional build.
 
 ## Building only an executable
 ```
