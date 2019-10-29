@@ -8,3 +8,10 @@ cd build
 cmake ..
 cmake --build .
 ```
+
+An alternative for debugging is to use the folllowing commands instead of `message()` command:
+
+```cmake
+include(CMakePrintHelpers)
+cmake_print_variables(_result _output)
+```
