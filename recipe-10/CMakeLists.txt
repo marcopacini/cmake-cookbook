@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10 FATAL_ERROR)
+project(recipe-10 LANGUAGES CXX)
+find_package(Boost REQUIRED COMPONENTS system)
+add_executable(recipe-10 main.cpp)
+target_link_libraries(recipe-10 PUBLIC Boost::system)
