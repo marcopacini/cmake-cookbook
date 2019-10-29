@@ -1,6 +1,6 @@
 # recipe-02
 
-An example of a library with an executable
+An example of a library with an executable.
 
 ```
 mkdir -p build

@@ -1,6 +1,6 @@
 # recipe-04
 
-An example of different types of build
+An example of different types of build.
 
 ## Default build (Release)
 ```
