@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
+project(recipe-09 LANGUAGES CXX)
+find_package(PythonInterp REQUIRED)
+find_package(PythonLibs REQUIRED)
+add_executable(recipe-09 main.cpp)
+target_link_libraries(recipe-09 PRIVATE ${PYTHON_LIBRARIES})
