@@ -2,7 +2,7 @@
 #include <random>
 #include <vector>
 
-#include "sum.cpp"
+#include "sum.hpp"
  
 int main(int argc, char* argv[]) {
     std::vector<int> ints;
