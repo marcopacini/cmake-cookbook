@@ -11,3 +11,4 @@
 - [recipe-09](https://github.com/marcopacini/cmake-cookbook/tree/master/recipe-09) - Phyton embedded in C++ (`find_package`)
 - [recipe-10](https://github.com/marcopacini/cmake-cookbook/tree/master/recipe-10) - Boost library
 - [recipe-11](https://github.com/marcopacini/cmake-cookbook/tree/master/recipe-11) - Unit test
+- [recipe-12](https://github.com/marcopacini/cmake-cookbook/tree/master/recipe-12) - Catch2
